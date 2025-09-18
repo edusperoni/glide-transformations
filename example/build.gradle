@@ -22,7 +22,6 @@ android {
     }
     release {
       debuggable false
-      zipAlignEnabled true
       minifyEnabled true
       shrinkResources true
     }
